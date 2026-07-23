@@ -4,7 +4,7 @@ Student developer exploring software engineering through projects involving algo
 
 I enjoy building projects that help me understand how software works internally, from implementing data structures and parsers from scratch to developing graphical applications and machine learning-based systems.
 
-🛠️ **Languages:** Java, Python, C++ (Learning), SQL (Learning)  
+🛠️ **Languages:** Java, Python, C++ (learning), SQL (learning)  
 ⚙️ **Technologies:** Git, GitHub, OpenCV, TensorFlow, NumPy, Java Swing, cmu_graphics
 
 🧠 **Currently exploring:** Algorithms, machine learning, software architecture, and systems programming with C++.
